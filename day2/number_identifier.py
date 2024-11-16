@@ -1,7 +1,8 @@
-even = [2,4,6,8,10]
-number =int(input("enter a number: "))
-if number in even:
-    print("number is even")
-elif number != even:
-    print('number is odd')
+number = int(input('give number? '))
+
+if number % 2 == 0:
+    print(f"the digit is even, {number}")
+else:
+    print(f"the digit is odd, {number}")
+
 

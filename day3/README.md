@@ -12,6 +12,10 @@
    ## for f in cart:
        held_number = 
        print(held_number)
+       output = 5
+                6
+                7
+                8      
 
 # DICTIONARIES
  they are mainly used to strore information that is in key value pairs
@@ -23,6 +27,7 @@
 ]
   
   ## print(cloths['raged'])
+  ## output = 80$
 
 
 
